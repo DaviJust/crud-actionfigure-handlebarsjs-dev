@@ -188,5 +188,5 @@ conn.connect(function(err) {
 
 // servidor
 app.listen(port, () => {
-    console.log(`App rodando ma porta ${port}`)
+    console.log(`App rodando na porta ${port}`)
 })
